@@ -4,7 +4,7 @@ namespace PhpAmqpLib\Message;
 use PhpAmqpLib\Wire\GenericContent;
 
 /**
- * A Message for use with the Channnel.basic_* methods.
+ * A Message for use with the Channel.basic_* methods.
  */
 class AMQPMessage extends GenericContent
 {
